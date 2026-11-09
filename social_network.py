@@ -63,7 +63,6 @@ class SocialNetwork:
             print(f"{name} is friends with: {', '.join(friend_names)}")
 
 
-# Test your code here
 if __name__ == "__main__":
     network = SocialNetwork()
 
